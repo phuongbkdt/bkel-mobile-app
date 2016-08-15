@@ -1,0 +1,21 @@
+{
+    "addanewdiscussion": "Thêm một chủ đề thảo luận mới",
+    "cannotadddiscussion": "Thêm thảo luận đến diễn đàn này yêu cầu thành viên của nhóm.",
+    "cannotadddiscussionall": "Bạn không có quyền để thêm một chủ đề thảo luận mới cho tất cả các thành viên.",
+    "cannotcreatediscussion": "Không thể tạo thảo luận mới",
+    "couldnotadd": "Không thể thêm bài viết của bạn đến khi còn một lỗi không xác định",
+    "discussionsubscription": "Theo dõi thảo luận",
+    "erroremptymessage": "Tin nhắn bài viết không thể trống",
+    "erroremptysubject": "Chủ đề bài viết không được để trống",
+    "errorgetforum": "Lỗi nhật dữ liệu diễn đàn.",
+    "errorgetgroups": "Lỗi nhận thiết lập nhóm.",
+    "forumnodiscussionsyet": "Chưa có chủ đề thảo luận trong diễn đàn này.",
+    "group": "Nhóm",
+    "message": "Tin nhắn",
+    "numdiscussions": "{{numdiscussions}} thảo luận",
+    "numreplies": "{{numreplies}} trả lời",
+    "posttoforum": "Viết bài đến diễn đàn",
+    "re": "Re:",
+    "reply": "Trả lời",
+    "subject": "Chủ đề"
+}

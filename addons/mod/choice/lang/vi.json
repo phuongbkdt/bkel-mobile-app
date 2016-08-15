@@ -1,0 +1,19 @@
+{
+    "cannotsubmit": "Xin lỗi, có một vấn đề khi gửi lựa chọn của bạn. Vui lòng thử lại.",
+    "choiceoptions": "Tùy chọn Lựa chọn",
+    "errorgetchoice": "Lỗi khi nhận dữ liệu lựa chọn.",
+    "expired": "Xin lỗi, hoạt động này đã đóng vào lúc {{$a}} và không được cho phép nữa",
+    "full": "(Đầy đủ)",
+    "noresultsviewable": "Kết quả hiện tải không thể xem được.",
+    "notopenyet": "Xin lỗi, hoạt động này không cho phép đến khi {{$a}}",
+    "numberofuser": "Số thành viên",
+    "numberofuserinpercentage": "Phần trăm của thành viên",
+    "previewonly": "Cái này chỉ là tùy chọn xem thử cho hoạt động này. Bạn sẽ không thể gửi lựa chọn cho đến khi {{$a}}.",
+    "removemychoice": "Xóa lựa chọn của tôi",
+    "responses": "Phản hồi",
+    "responsesresultgraphdescription": "{{number}}% của người dùng chọn tùy chọn: {{text}}.",
+    "responsesresultgraphheader": "Hiển thị đồ thị",
+    "savemychoice": "Lưu lựa chọn của tôi",
+    "userchoosethisoption": "Người dùng chọn tùy chọn này",
+    "yourselection": "Lựa chọn của bạn"
+}

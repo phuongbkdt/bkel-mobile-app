@@ -1,0 +1,14 @@
+{
+    "browsemode": "Duyệt các mục",
+    "byalphabet": "Alpha B",
+    "byauthor": "Nhóm theo tác giả",
+    "bynewestfirst": "Mới nhất lên đầu",
+    "byrecentlyupdated": "Cập nhật gần đây",
+    "bysearch": "Tìm kiếm",
+    "entrypendingapproval": "Mục này đang chờ chấp thuận.",
+    "errorloadingentries": "Một lỗi xuất hiện trong khi tải các mục.",
+    "errorloadingentry": "Một lỗi xuất hiện trong khi tải mục.",
+    "errorloadingglossary": "Một lỗi xuất hiện khi tải các mục.",
+    "noentriesfound": "Không có các mục được tìm thấy.",
+    "searchquery": "Chuổi tìm kiếm"
+}

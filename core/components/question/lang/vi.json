@@ -1,0 +1,22 @@
+{
+	"answer": "Câu trả lời",
+	"answersaved": "Câu trả lời đã được lưu",
+	"certainty": "Chắc chắn",
+	"complete": "Hoàn thành",
+	"correct": "Đúng",
+	"errorattachmentsnotsupported": "Ứng dụng không hỗ trợ đính kèm tập tin đến câu trả lời.",
+	"errorinlinefilesnotsupported": "Ứng dụng không hỗ trợ chỉnh sửa trong tập tin.",
+	"errorquestionnotsupported": "Loại câu hỏi không được hỗ trợ bởi ứng dụng: {{$a}}.",
+	"feedback": "Phản hồi",
+	"howtodraganddrop": "Chạm để chọn sau đó chạm để thả.",
+	"incorrect": "Không đúng",
+	"information": "Thông tin",
+	"invalidanswer": "Câu trả lời không hoàn thành",
+	"notanswered": "Không trả lời",
+	"notyetanswered": "Chưa trả lời",
+	"partiallycorrect": "Đúng một phần",
+	"questionmessage": "Câu hỏi {{$a}}: {{$b}}",
+	"questionno": "Câu hỏi {{$a}}",
+	"requiresgrading": "Điểm yêu câu",
+	"unknown": "Không thể xác định tình trạng"
+}

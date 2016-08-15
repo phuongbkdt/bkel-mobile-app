@@ -1,0 +1,11 @@
+{
+    "chooseactionrepeatedfile": "Đã tồn tại một tập tin với tên này. Bạn có muốn thay thể tập tin đã tồn tại hoặc đổi tên thành \"{{$a}}\"?",
+    "chooseaccountstorefile": "Chọn một tài khoản để lưu tập tin.",
+    "errorreceivefilenosites": "Không có trang web được lưu. Vui lòng thêm trang web trước khi chia sẻ tập tin với ứng dụng.",
+    "nosharedfiles": "Không có tập tin được chia sẻ lưu trữ trong trang web này.",
+    "nosharedfilestoupload": "Bạn không có tập tin để tải lên ở đây. Nếu bạn muốn tải lên một tập tin từ úng dụng khác, định vị tập tin và nhấn nút 'Mở trong'.",
+    "rename": "Đổi tên",
+    "replace": "Thay thế",
+    "sharedfiles": "Chia sẽ tập tin",
+    "successstorefile": "Lưu trữ tập tin thành công. Bây giờ bạn có thể chọn tập tin này để tải nó lên tập tin cá nhân của bạn hoặc đính kèm nó trong các hoạt động."
+}

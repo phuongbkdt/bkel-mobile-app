@@ -1,0 +1,13 @@
+{
+    "admindisableddownload": "Vui lòng lưu ý Quản trị viên đã vô hiệu hóa chức năng tải tập tin, bạn có thể thấy các tập tin nhưng không thể tải chúng.",
+    "clicktoupload": "Nhấn nút bên dưới để tải lên các tập tin vào các tập tin cá nhân của bạn.",
+    "couldnotloadfiles": "Danh sách các tập tin không thể tải được.",
+    "emptyfilelist": "Không có tập tin để hiển thị.",
+    "erroruploadnotworking": "Hiện tại không thể tải các tập tin lên trang của bạn.",
+    "myfiles": "Tập tin của tôi",
+    "myprivatefiles": "Tập tin cá nhân của tôi",
+    "myprivatefilesdesc": "Các tập tin được cho phép trong trong khu vực tập tin cá nhân trên trang này.",
+    "sitefiles": "Tập tin trang",
+    "sitefilesdesc": "Các tập tin khác cho phép trên trang này.",
+    "uploadfiles": "Tải lên các tập tin"
+}

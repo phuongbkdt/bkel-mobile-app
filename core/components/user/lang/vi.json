@@ -1,0 +1,21 @@
+{
+    "address": "Địa chỉ",
+    "city": "Thành phố",
+    "contact": "Liên hệ",
+    "country": "Quốc gia",
+    "description": "Mô tả",
+    "details": "Chi tiết",
+    "detailsnotavailable": "Không cho phép bạn xem thông tin chi tiết người dùng này.",
+    "editingteacher": "Giảng viên",
+    "email": "Email",
+    "interests": "Sở thích",
+    "invaliduser": "Người dùng không hợp lệ.",
+    "manager": "Quản lý",
+    "phone1": "Điện thoại",
+    "phone2": "Di động",
+    "roles": "Các vai trò",
+    "student": "Sinh viên",
+    "teacher": "Trợ giảng",
+    "viewprofile": "Xem hồ sơ",
+    "webpage": "Trang web"
+}

@@ -1,0 +1,18 @@
+{
+    "activitynotyetviewable": "Hoạt động hoặc tài nguyên này chưa có thể xem trong ứng dụng.",
+    "activitynotyetviewablegothere": "Hoạt động hoặc tài nguyên này chưa có thể xem trong ứng dụng, nhấn nút bên dưới để truy cập nó từ trang web.",
+    "allsections": "Tất cả các mục",
+    "confirmdeletemodulefiles": "Bạn có chắc chắn muốn xóa các tập tin mô đun này?",
+    "confirmdownload": "Bạn tải về khoản {{size}}. Bạn có chắc chắn muốn tiếp tục?",
+    "confirmdownloadunknownsize": "Chúng tôi không thể tính toán kích thước tải về. Bạn có muốn chắc chắn muốn tải về?",
+    "contents": "Nội dung",
+    "couldnotloadsections": "Không thể tải các mục, vui lòng thử lại sau.",
+    "couldnotloadsectioncontent": "Không thể tải mục nội dung, vui lòng thử lại sau.",
+    "errordownloadingsection": "Lỗi khi tải về các mục.",
+    "errorgetmodule": "Lỗi khi nhận dữ liệu mô đun.",
+    "gotothesite": "Đến trang web",
+    "nocontentavailable": "Không có nội dung trong lúc này.",
+    "overriddennotice": "Điểm tổng kết của bạn từ hoạt động này đực điều chỉnh thủ công.",
+    "showall": "Hiện tất cả",
+    "whoops": "Whoops!"
+}

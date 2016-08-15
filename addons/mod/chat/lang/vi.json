@@ -1,0 +1,19 @@
+{
+    "beep": "Beep",
+    "currentusers": "Người dùng hiện tại",
+    "enterchat": "Nhấn ở đây để nhập trò chuyện bây giờ",
+    "entermessage": "Nhập tin nhắn của bạn",
+    "errorwhileconnecting": "Lỗi khi kết nối chat.",
+    "errorwhilegettingchatdata": "Lỗi khi nhận dữ liệu chat.",
+    "errorwhilegettingchatusers": "Lỗi khi nhận người dùng chat.",
+    "errorwhileretrievingmessages": "Lỗi khi xem tin nhắn từ máy chủ.",
+    "errorwhilesendingmessage": "Lỗi khi đang gửi tin nhắn.",
+    "messagebeepsyou": "{{$a}} vừa beep bạn!",
+    "messageenter": "{{$a}} vừa nhập phòng chat này",
+    "messageexit": "{{$a}} vừa rời khỏi phòng chat",
+    "mustbeonlinetosendmessages": "Bạn phải trực tuyến để gửi tin nhắn",
+    "nomessages": "Chưa có tin nhắn",
+    "send": "Gửi",
+    "sessionstart": "Phiên chat kế tiếp sẽ bắt đầu vào lúc {{$a}}",
+    "talk": "Nói chuyện"
+}

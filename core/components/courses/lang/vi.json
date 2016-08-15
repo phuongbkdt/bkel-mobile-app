@@ -1,0 +1,20 @@
+{
+	"confirmselfenrol": "Bạn có chắc chắn muốn tự ghi danh vào khóa học này?",
+	"enrolme": "Ghi danh tôi",
+	"errorloadcourses": "Một lỗi phát sinh khi đang tải các khóa học.",
+	"errorsearching": "Một lỗi phát sinh khi đang tìm kiếm.",
+	"errorselfenrol": "Một lỗi phát sinh khi tự ghi danh.",
+	"filtermycourses": "Lọc các khóa học của tôi",
+	"frontpage": "Trang chủ",
+	"mycourses": "Khóa học của tôi",
+	"nosearchresults": "Không có kết quả từ tìm kiếm của bạn",
+	"notenroled": "Bạn không được ghi danh trong khóa học này",
+	"notenrollable": "Bạn không thể tự ghi danh trong khóa học này.",
+	"nocourses": "Không có thông tin khóa học được hiển thị.",
+	"password": "Khóa ghi danh",
+	"search": "Tìm kiếm",
+	"searchcourses": "Tìm kiếm khóa học",
+	"searchcoursesadvice": "Bạn có thể sử dụng tìm nút tìm kiếm khóa học để truy cập như khách hoặc tự ghi danh vào các khóa học cho phép.",
+	"selfenrolment": "Tự ghi danh",
+	"totalcoursesearchresults": "Tổng cộng khóa học: {{$a}}"
+}
