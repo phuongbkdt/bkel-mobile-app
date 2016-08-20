@@ -84,7 +84,7 @@ angular.module('mm.core')
     self.checkSite = function(siteurl, protocol) {
 
         // formatURL adds the protocol if is missing.
-        siteurl = $mmUtil.formatURL(siteurl);
+       // siteurl = $mmUtil.formatURL(siteurl);
 
         if (!$mmUtil.isValidURL(siteurl)) {
             return $mmLang.translateAndReject('mm.login.invalidsite');
