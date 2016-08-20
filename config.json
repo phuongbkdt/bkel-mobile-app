@@ -8,8 +8,8 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
-    "demo_sites": {},
-    "presets" : {"url": "http://e-learning.hcmut.edu.vn", "username": ""},
-    "siteurl":"http://e-learning.hcmut.edu.vn",
+   
+  
+    "siteurl": "http://e-learning.hcmut.edu.vn",
     "customurlscheme": "moodlemobile"
 }
