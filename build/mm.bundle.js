@@ -11610,13 +11610,11 @@ angular.module('mm.core.login')
     $log = $log.getInstance('$mmLoginHelper');
     var self = {};
         self.goToAddSite = function() {
-       /* if (mmCoreConfigConstants.siteurl) {
+        if (mmCoreConfigConstants.siteurl) {
             return $state.go('mm_login.credentials', {siteurl: mmCoreConfigConstants.siteurl});
         } else {
             return $state.go('mm_login.site');
         }
-		*/
-		 return $state.go('mm_login.credentials', {siteurl:"http://e-learning.hcmut.edu.vn"});
     };
         self.goToSiteInitialPage = function() {
         if ($mmSite.getInfo() && $mmSite.getInfo().userhomepage === 0) {
