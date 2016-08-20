@@ -11487,7 +11487,7 @@ angular.module('mm.core.login')
 angular.module('mm.core.login')
 .controller('mmLoginSiteCtrl', ["$scope", "$state", "$mmSitesManager", "$mmUtil", "$translate", "$ionicHistory", "$mmApp", "$ionicModal", "$mmLoginHelper", function($scope, $state, $mmSitesManager, $mmUtil, $translate, $ionicHistory, $mmApp,
         $ionicModal, $mmLoginHelper) {
-    $scope.siteurl = '';
+    $scope.siteurl = 'e-learning.hcmut.edu.vn';
     $scope.connect = function(url) {
         $mmApp.closeKeyboard();
         if (!url) {
